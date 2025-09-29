@@ -1,0 +1,213 @@
+"flagCode","country","MWILevel_2023","MismanagedWasteIndex_2023"
+"AF","Afghanistan","Very High",98.06
+"AL","Albania","High",69.9
+"DZ","Algeria","Very Low",12.82
+"AS","American Samoa","Medium",53.03
+"AD","Andorra","Medium",44.77
+"AO","Angola","Very High",94.37
+"AG","Antigua and Barbuda","Very Low",2.55
+"AR","Argentina","Medium",40.77
+"AM","Armenia","Very High",97.76
+"AW","Aruba","High",78.2
+"AU","Australia","Very Low",9.29
+"AT","Austria","Very Low",4.12
+"AZ","Azerbaijan","Very High",98.01
+"BS","Bahamas","Low",17.02
+"BH","Bahrain","Very Low",4.63
+"BD","Bangladesh","Very High",98.54
+"BB","Barbados","Very Low",10.64
+"BY","Belarus","Low",30.33
+"BE","Belgium","Very Low",5.72
+"BZ","Belize","High",66.81
+"BJ","Benin","Very Low",89.21
+"BM","Bermuda","Very Low",0.13
+"BT","Bhutan","Very High",80.32
+"BO","Bolivia","High",73.04
+"BA","Bosnia and Herzegovina","High",72.42
+"BW","Botswana","Very High",94.86
+"BR","Brazil","Very High",97.97
+"VG","British Virgin Islands","Low",21.95
+"BN","Brunei","Low",32.42
+"BG","Bulgaria","Medium",54.77
+"BF","Burkina Faso","Very High",94.05
+"BI","Burundi","Very High",97.24
+"KH","Cambodia","Very High",91.89
+"CM","Cameroon","Very High",87.46
+"CA","Canada","Very Low",2.57
+"CV","Cape Verde","Very High",82.54
+"KY","Cayman Islands","High",67.95
+"CF","Central African Republic","Very High",97.3
+"TD","Chad","Very High",97.37
+"CL","Chile","Low",35.19
+"CN","China","Low",17.41
+"CO","Colombia","High",62.42
+"KM","Comoros","Very High",97.06
+"CR","Costa Rica","Low",21.53
+"HR","Croatia","Low",22.3
+"CU","Cuba","High",73.81
+"CW","Curacao","Very High",94.88
+"CY","Cyprus","Low",19.11
+"CZ","Czech Republic","Very Low",1.89
+"DK","Denmark","Very Low",1.56
+"DJ","Djibouti","Very High",88.2
+"DM","Dominica","Low",22.59
+"DO","Dominican Republic","Very High",89.16
+"CD","DR Congo","Very High",97.75
+"EC","Ecuador","Very High",98.5
+"EG","Egypt","Very High",89.37
+"SV","El Salvador","Low",38.68
+"GQ","Equatorial Guinea","High",64.53
+"ER","Eritrea","Very High",97.34
+"EE","Estonia","Low",28.33
+"SZ","Eswatini","Very High",84.21
+"ET","Ethiopia","Very High",96.41
+"FO","Faroe Islands","Low",36.01
+"FJ","Fiji","High",60.56
+"FI","Finland","Very Low",1.4
+"FR","France","Very Low",5.08
+"PF","French Polynesia","High",74.35
+"GA","Gabon","Very High",88.1
+"GM","Gambia","Very High",97.27
+"GE","Georgia","Very High",80.27
+"DE","Germany","Very Low",8.34
+"GH","Ghana","Very High",87.98
+"GI","Gibraltar","Low",21.23
+"GR","Greece","Medium",58.76
+"GL","Greenland","Very Low",4.49
+"GD","Grenada","Low",24.78
+"GU","Guam","Low",18.11
+"GT","Guatemala","High",79.72
+"GN","Guinea","Very High",97.61
+"GW","Guinea-Bissau","Very High",97.28
+"GY","Guyana","Low",25.57
+"HT","Haiti","Very High",99.61
+"HN","Honduras","High",71.88
+"HK","Hong Kong","Very Low",0.91
+"HU","Hungary","Very Low",1.32
+"IS","Iceland","Very Low",0.97
+"IN","India","Very High",98.55
+"ID","Indonesia","Very High",98.42
+"IR","Iran","Very High",84.41
+"IQ","Iraq","Very High",98.35
+"IE","Ireland","Very Low",8.31
+"IM","Isle of Man","Very Low",4
+"IL","Israel","Very Low",4.12
+"IT","Italy","Low",22.03
+"CI","Ivory Coast","Very High",97.95
+"JM","Jamaica","Very High",98.18
+"JP","Japan","Very Low",10.87
+"JO","Jordan","High",61.64
+"KZ","Kazakhstan","Very High",94.14
+"KE","Kenya","Very High",98.9
+"KI","Kiribati","Very High",87.26
+"KW","Kuwait","Very High",93.66
+"KG","Kyrgyzstan","Very High",98.47
+"LA","Laos","High",79.74
+"LV","Latvia","Low",24.04
+"LB","Lebanon","Medium",48.26
+"LS","Lesotho","Very High",95.18
+"LR","Liberia","Very High",97.09
+"LY","Libya","Medium",55.21
+"LI","Liechtenstein","Low",35.4
+"LT","Lithuania","Very Low",6.26
+"LU","Luxembourg","Very Low",0.12
+"MO","Macau","High",67.09
+"MG","Madagascar","Very High",99.81
+"MW","Malawi","Very High",97.23
+"MY","Malaysia","High",76.4
+"MV","Maldives","Very High",81.09
+"ML","Mali","Very High",97.11
+"MT","Malta","Very Low",7.07
+"MH","Marshall Islands","Very High",83
+"MR","Mauritania","Very High",94.75
+"MU","Mauritius","Low",15.47
+"MX","Mexico","High",67.24
+"FM","Micronesia","Very High",98.74
+"MD","Moldova","Very High",89.82
+"MC","Monaco","Very Low",9.6
+"MN","Mongolia","Very High",98.47
+"ME","Montenegro","Very High",89.95
+"MA","Morocco","High",74.41
+"MZ","Mozambique","Very High",99.85
+"MM","Myanmar","Very High",99.18
+"NA","Namibia","Very High",95.57
+"NR","Nauru","Medium",53.23
+"NP","Nepal","Very High",93.84
+"NL","Netherlands","Very Low",4.71
+"NC","New Caledonia","Medium",44.74
+"NZ","New Zealand","Very Low",10.45
+"NI","Nicaragua","Very High",87.12
+"NE","Niger","Very High",98.24
+"NG","Nigeria","Very High",99.44
+"MK","North Macedonia","Medium",41.52
+"MP","Northern Mariana Islands","High",65.62
+"NO","Norway","Very Low",1.75
+"OM","Oman","Very High",97.82
+"PK","Pakistan","Very High",91.53
+"PW","Palau","Low",39.08
+"PA","Panama","Very High",91.56
+"PG","Papua New Guinea","Very High",80.58
+"PY","Paraguay","High",67.64
+"PE","Peru","Very High",94.49
+"PH","Philippines","Very High",98.37
+"PL","Poland","Very Low",13.49
+"PT","Portugal","Very Low",12.09
+"PR","Puerto Rico","Low",22.89
+"QA","Qatar","High",77.34
+"CG","Republic of the Congo","Very High",87.79
+"RO","Romania","High",72.44
+"RU","Russia","Very High",97.82
+"RW","Rwanda","Very High",96.55
+"KN","Saint Kitts and Nevis","Very Low",5.03
+"LC","Saint Lucia","Low",26.09
+"VC","Saint Vincent and the Grenadines","Low",30.18
+"WS","Samoa","Medium",41.53
+"SM","San Marino","Medium",56.97
+"ST","Sao Tome and Principe","Very High",88.35
+"SA","Saudi Arabia","High",70.23
+"SN","Senegal","Very High",97.36
+"RS","Serbia","Medium",54.42
+"SC","Seychelles","Low",19.64
+"SL","Sierra Leone","Very High",97.17
+"SG","Singapore","Very Low",4.97
+"SX","Sint Maarten","Low",21.23
+"SK","Slovakia","Very Low",9.9
+"SI","Slovenia","Very Low",6.34
+"SB","Solomon Islands","Very High",100
+"SO","Somalia","Very High",97.32
+"ZA","South Africa","Very High",81.81
+"KR","South Korea","Low",17.23
+"SS","South Sudan","Very High",97.34
+"ES","Spain","Low",16.92
+"LK","Sri Lanka","Very High",92.09
+"SD","Sudan","Very High",80.53
+"SR","Suriname","Very High",100
+"SE","Sweden","Very Low",1.49
+"CH","Switzerland","Very Low",8.91
+"SY","Syria","Very High",94.59
+"TW","Taiwan","Very Low",4.49
+"TJ","Tajikistan","Very High",99.25
+"TZ","Tanzania","Very High",99.61
+"TH","Thailand","Very High",98.49
+"TL","Timor-Leste","Very High",88.3
+"TG","Togo","Very High",98.69
+"TO","Tonga","High",79.33
+"TT","Trinidad and Tobago","Very High",87.9
+"TN","Tunisia","High",79.47
+"TR","Turkey","Medium",48.03
+"TM","Turkmenistan","Medium",41.28
+"TV","Tuvalu","Very High",92.59
+"UG","Uganda","Very High",99.71
+"UA","Ukraine","Medium",59.39
+"AE","United Arab Emirates","Very High",90.94
+"GB","United Kingdom","Very Low",12.31
+"US","United States","Very Low",8.71
+"VI","United States Virgin Islands","Low",21.95
+"UY","Uruguay","Very High",96.08
+"UZ","Uzbekistan","Very High",98.23
+"VU","Vanuatu","Very High",95.82
+"VE","Venezuela","Medium",53.21
+"VN","Vietnam","Low",32.01
+"YE","Yemen","Very High",97.8
+"ZM","Zambia","Very High",94.01
+"ZW","Zimbabwe","Very High",88.78
